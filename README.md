@@ -1,1 +1,1 @@
-# CS224n
+# Stanford CS224n - Assignment Solutions
